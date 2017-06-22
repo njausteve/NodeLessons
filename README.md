@@ -12,9 +12,9 @@ In Node.js, he gave developers a tool for working in the non-blocking, event-dri
 
 ```why not learn node then ??? ```
 
- > **lessons **
-    >- 1. Global modules
-    >- 2. Core modules
-    >- 3. Timers 
-    >- 4. readline Utility
-    >- 5. modules
+   #lessons 
+    - Global modules
+    - Core modules
+    - Timers 
+    - readline Utility
+    - modules
