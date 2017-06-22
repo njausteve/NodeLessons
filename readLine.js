@@ -6,19 +6,14 @@ var fs = require('fs');
 var rl = readline.createInterface({
     // input: process.stdin,
     input: fs.createReadStream('data.txt'),
-    output: process.stdout,
+    // output: process.stdout,
+    // terminal: false  // 
 
 });
 
 
 rl.on('line', (line) => {
-    util.log(`Line from data file : ${line}`)
+   // util.log(`Line from data file : ${line}`)
+   console.log(`${line}`);
+
 });
-
-// rl.question('What do you think of node.js ??', (answer) => {
-
-//     util.log(`Thank you for you valuable feedback : ${answer}`);
-
-//     rl.pause();
-//     readline.clearScreenDown();
-// });
