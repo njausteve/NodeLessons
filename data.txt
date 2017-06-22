@@ -1,0 +1,11 @@
+Hey everyone! Here’s a list I put together of everything I published this month on the topic of JavaScript.
+I’ve also included Medium articles by other Hackernoon authors that were popular during the month of May.
+Topics include:
+Twitter Bot Tutorial
+The spread operator
+Arrow Functions
+Learn React & Node.js
+Facebook Prepack
+And More!
+If this content interests you, please consider entering your email here to be added to my once-weekly email list.
+Enough of the boring stuff… on to the articles!
